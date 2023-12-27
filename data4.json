@@ -1,1 +1,5 @@
-{"another_key":"456","key":"123"}
+{
+  another_key: '456',
+  key: '123'
+}
+
